@@ -1,4 +1,7 @@
 #!/bin/sh
+#github.com/pushkarv
+
+
 while getopts ":i:t:" o; do
     case "${o}" in
         i)
